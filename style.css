@@ -4,3 +4,7 @@ head{
 h1{
     color: aquamarine;
 }
+p{
+    font: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
